@@ -3,8 +3,8 @@
 145 Java Interview Questions for 4+ Years Experience
 Core Java Questions
 
-Explain the differences between == and .equals() in Java, with examples.
-What is the difference between checked and unchecked exceptions? Give examples.
+1. Explain the differences between == and .equals() in Java, with examples.
+2. What is the difference between checked and unchecked exceptions? Give examples.
 How does garbage collection work in Java? Explain the role of different GC algorithms (e.g., G1, CMS).
 What are the differences between HashMap, LinkedHashMap, and ConcurrentHashMap?
 Explain the contract between equals() and hashCode(), and why it's important.
